@@ -1,0 +1,3 @@
+C:\Users\BalPorsugu\source\kare\kare\Debug\kare.vcxprojAssemblyReference.cache
+C:\Users\BalPorsugu\source\kare\kare\Debug\kare.MyForm.resources
+C:\Users\BalPorsugu\source\kare\kare\Debug\kare.vcxproj.GenerateResource.cache

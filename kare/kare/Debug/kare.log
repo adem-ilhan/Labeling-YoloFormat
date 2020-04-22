@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(229,15): warning C4477: 'sprintf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'System::String ^'
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(244,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(245,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(246,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(247,11): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(229,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(234,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(240,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(290,12): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(289,10): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(373,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(205): warning C4715: 'kare::MyForm::min': tüm denetim yolları değer döndürmez
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  kare.vcxproj -> C:\Users\BalPorsugu\source\kare\Debug\kare.exe
