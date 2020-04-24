@@ -291,7 +291,8 @@ namespace kare {
 				//Rectan
 				myRectangles.Add(Rectangle(x, y, w, h));
 				class_ids.push_back(cs_id);
-			
+				listBox1->Items->Add("Class id::" + cs_id + "  X::" + x + "  Y::" + y + "  Width::" + w + "  Heihgt::" + h);
+
 		
 				
 			}
@@ -421,7 +422,7 @@ private: System::Void pictureBox1_Paint(System::Object^ sender, System::Windows:
 
 
 private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
-	FILE* f = fopen(tr, "a");
+	FILE* f = fopen(tr, "w");
 	int count = 0;
 	int id;
 	float x, y, x_w, y_h;
@@ -513,6 +514,7 @@ private: System::Void button4_Click(System::Object^ sender, System::EventArgs^ e
 	sscanf(LL, "Class id::%d  X::%d  Y::%d  Width::%d  Heihgt::%d", &x,&b,&c,&d,&f);
 	//label1->Text = "" + x + ""+b;
 	myRectangles.Remove(Rectangle(b, c, d, f));
+	listBox1->Items->RemoveAt((int)listBox1->SelectedIndex);
 	//Remove calýþýyor eski datayý güncelemede indexler tutmuyor basit bir hata sonra halledilir.
 }
 };

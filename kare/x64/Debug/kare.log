@@ -7,12 +7,12 @@ C:\Users\BalPorsugu\source\kare\kare\MyForm.h(290,11): warning C4244: 'başlatı
 C:\Users\BalPorsugu\source\kare\kare\MyForm.h(272,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\BalPorsugu\source\kare\kare\MyForm.h(277,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\BalPorsugu\source\kare\kare\MyForm.h(283,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(331,12): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(330,10): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(424,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(509,14): warning C4477: 'sprintf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'System::String ^'
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(509,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\BalPorsugu\source\kare\kare\MyForm.h(513,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(332,12): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(331,10): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(425,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(510,14): warning C4477: 'sprintf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'System::String ^'
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(510,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\BalPorsugu\source\kare\kare\MyForm.h(514,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\BalPorsugu\source\kare\kare\MyForm.h(245): warning C4715: 'kare::MyForm::min': tüm denetim yolları değer döndürmez
   MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
   kare.vcxproj -> C:\Users\BalPorsugu\source\kare\x64\Debug\kare.exe
